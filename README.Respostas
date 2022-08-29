@@ -1,0 +1,5 @@
+# Planejamento-testesCWI
+Exercício01-cite2Ex-TécnicoDePlanejDeTestes
+
+Ex01: Teste de Caixa branca abrange o acesso ao código fonte para uma maior observação as etapas do código. como fluxo de dados, verificação de condições.
+Ex02: Teste de Regressão abrange validação de aplicações,funcionalidades que forem mudadas ou inclementadas, verificação após manutenção.  
