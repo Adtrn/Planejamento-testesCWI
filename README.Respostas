@@ -3,3 +3,8 @@ Exercício01-cite2Ex-TécnicoDePlanejDeTestes
 
 Ex01: Teste de Caixa branca abrange o acesso ao código fonte para uma maior observação as etapas do código. como fluxo de dados, verificação de condições.
 Ex02: Teste de Regressão abrange validação de aplicações,funcionalidades que forem mudadas ou inclementadas, verificação após manutenção.  
+
+Exercício02-cite3Ex-artefatos-documento-modelagem-testes
+
+Ex01:Tabela de decisão abrange a combinação de condições de decisões lógicas
+Ex02:Teste de Transição de Estados abrange uma sequência de estados exercita transações ou teste
