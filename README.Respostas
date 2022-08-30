@@ -8,5 +8,7 @@ OBS: Teste de caixa branca = teste interno / Teste de caixa preta = teste extern
 
 Exercício02-cite3Ex-artefatos-documento-modelagem-testes
 
-Ex01:Tabela de decisão abrange a combinação de condições de decisões lógicas
-Ex02:Teste de Transição de Estados abrange uma sequência de estados exercita transações ou teste
+Ex0:Tabela de decisão abrange a combinação de condições de decisões lógicas
+Ex01:caso de teste
+EX02:identificador
+EX03:pré condoção
