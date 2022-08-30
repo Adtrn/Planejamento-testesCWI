@@ -9,6 +9,6 @@ OBS: Teste de caixa branca = teste interno / Teste de caixa preta = teste extern
 Exercício02-cite3Ex-artefatos-documento-modelagem-testes
 
 Ex0:Tabela de decisão abrange a combinação de condições de decisões lógicas
-Ex01:caso de teste
-EX02:identificador
-EX03:pré condoção
+Ex01:caso de teste - BASEADO NA EXPERIÊNCIA 
+EX02:identificador - BASEADO NA ESTRUTURA 
+EX03:pré condição - BASEADO NO COMPORTAMENTO 
